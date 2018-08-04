@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Server</string>
+    <string name="Welcome">Server Starting\n</string>
+</resources>
